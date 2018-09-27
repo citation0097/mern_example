@@ -1,0 +1,25 @@
+{
+  "name": "mern_example",
+  "version": "1.0.0",
+  "description": "Mern stack setup example",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/citation0097/mern_example.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citation0097/mern_example.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "mern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citation0097/mern_example/issues"
+  },
+  "homepage": "https://github.com/citation0097/mern_example#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
